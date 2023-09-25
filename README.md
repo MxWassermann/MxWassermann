@@ -5,5 +5,6 @@
 # <center> Всем привет, меня зовут Максим 👋 </center> 
 <center> Начинающий Data Science специалист и просто человек, который любит программировать. </center>
 ## На данный момент в список моих компетенций входит:
-
-<img src="python.svg" alt="Python", width="50" height="50" class="filter-green">
+<img src="python.svg" alt="Python", width="50" height="50" class="filter-green"> | Python
+<img src="postgressql.svg" alt="PostgresSQL", width="50" height="50" class="filter-green"/> | PostgresSQL
+<img src="git.svg" alt="Git", width="50" height="50" class="filter-green"/> | Git
