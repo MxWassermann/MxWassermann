@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Maxim
 #### Novice Data Science specialist and just a person who is fond of programming.
-![Novice Data Science specialist and just a person who is fond of programming.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Novice Data Science specialist and just a person who is fond of programming.](banner.png)
 
 A young specialist who has just started his journey in Data Science. I have basic skills in Python, PostgreSQL and Git. I am familiar with basic machine learning algorithms such as regression, classification, clustering and dimensionality reduction, but I also use more advanced ones such as ensembles of methods: bagging, stacking, boosting.
 
@@ -16,7 +16,7 @@ A young specialist who has just started his journey in Data Science. I have basi
 ---
 ### Привет 👋, меня зовут Максим
 #### Начинающий специалист по данным и просто человек, который любит программировать.
-![Novice Data Science specialist and just a person who is fond of programming.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Novice Data Science specialist and just a person who is fond of programming.](banner.png)
 
 Молодой специалист, который только начал свой путь в Data Science. Владею базовыми навыками в Python, PostgreSQL и Git. Знаком с основными алгоритмами машинного обучения, такие как регрессия, классификация, кластеризация и понижение размерности, но использую также и более продвинутые, такие как ансамбли методов: беггинг, стекинг, бустинг.
 
